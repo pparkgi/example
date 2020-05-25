@@ -3,3 +3,4 @@ rebase conflict example
 2. rebase - conflict를 발생하기 위해서 
 3. example - 같은 commit 지점 이후에 
 4. conflict - 마스터 브랜치에서는 이러한 내용을 작성해서 커밋한다.
+5. 추가로 커밋을 한 번 더 한다!!!
